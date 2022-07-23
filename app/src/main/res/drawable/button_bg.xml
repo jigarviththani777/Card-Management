@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp"/>
+            <gradient
+                android:startColor="@color/edittext"
+                android:centerColor="@color/edittext"
+                android:endColor="@color/edittext"/>
+            <stroke android:width="2dp"
+                android:color="@color/purple_500"/>
+            <!--            80FF48-->
+        </shape>
+    </item>
+
+    <item android:state_enabled="true" >
+        <shape android:shape="rectangle">
+            <corners android:radius="20dp"/>
+            <gradient
+                android:startColor="@color/edittext"
+                android:centerColor="@color/edittext"
+                android:endColor="@color/edittext"/>
+            <stroke android:color="@color/white"
+                android:width="2dp"/>
+        </shape>
+    </item>
+
+    <!--    <item android:state_enabled="false">-->
+    <!--        <color android:color="@color/easy"/>-->
+    <!--    </item>-->
+
+
+
+</selector>

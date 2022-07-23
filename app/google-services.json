@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255078150562",
+    "firebase_url": "https://dg-locker-default-rtdb.firebaseio.com",
+    "project_id": "dg-locker",
+    "storage_bucket": "dg-locker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255078150562:android:135d06ebfb64f73dfbc2fb",
+        "android_client_info": {
+          "package_name": "com.secure.dglocker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255078150562-pm9kcljuu4prcg2g0da9dfafm5u0ckvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.secure.dglocker",
+            "certificate_hash": "5c3fdb0d547114f6e4a6f6bb11cbad5ad8343aad"
+          }
+        },
+        {
+          "client_id": "255078150562-8am5fr6dn0ae4k3orkdo8fubeeqtl52n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1KrD-8T0vgtqdKGjyRjxTrrFTcJ6EMvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255078150562-8am5fr6dn0ae4k3orkdo8fubeeqtl52n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
